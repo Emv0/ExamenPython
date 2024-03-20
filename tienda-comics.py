@@ -157,6 +157,6 @@ while (opcion != 6):
                                 productos.pop(index)
                         print("\nProducto eliminado\n");
                     else:
-                        print("\nProducto no eliminado\n")
+                        print("\nProducto no eliminado\n");
     else:
         print("\nIngrese una opcion valida\n");

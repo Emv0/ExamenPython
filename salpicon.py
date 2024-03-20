@@ -41,4 +41,4 @@ for fruta in frutas:
     print(f"Fruta: {fruta["nombre"]} - Precio: ${fruta["precioUnitario"]}");
 print("");
 
-print(f"La fruta mas barata es {frutas[cantidadFrutas-1]["nombre"]}, precio: ${frutas[cantidadFrutas-1]["precioUnitario"]}")
+print(f"La fruta mas barata es {frutas[cantidadFrutas-1]["nombre"]}, precio: ${frutas[cantidadFrutas-1]["precioUnitario"]}");
